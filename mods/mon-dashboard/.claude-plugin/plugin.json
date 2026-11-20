@@ -1,0 +1,6 @@
+{
+  "name": "mon-dashboard",
+  "version": "0.1.0",
+  "description": "Ton tableau de bord (tâches Todoist, agenda Notion, mails Gmail) en permanence à côté du chat, actualisé tout seul.",
+  "types": "./types/index.d.ts"
+}
